@@ -92,7 +92,7 @@
       "pluginApi": ">=2026.4.0"
     },
     "extensions": [
-      "./src/openclaw-context-engine.ts"
+      "./src/openclaw-plugin.ts"
     ]
   },
   "dependencies": {

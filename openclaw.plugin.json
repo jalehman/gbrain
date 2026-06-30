@@ -86,9 +86,5 @@
       "pluginApi": ">=2026.4.0"
     }
   },
-  "contracts": {
-    "contextEngines": [
-      "gbrain-context"
-    ]
-  }
+  "contracts": {}
 }
